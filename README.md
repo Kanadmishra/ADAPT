@@ -1,1 +1,1 @@
-This repositry contains all my ADAPT assignments.
+This repository contains all my ADAPT assignments.
