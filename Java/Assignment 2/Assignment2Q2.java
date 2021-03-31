@@ -56,9 +56,9 @@ public class Assignment2Q2 {
         * as final but can be changed after inserting another
         * setter method for empID and fName
         */
-        Assignment2Q2 manager = new Manager(1, "Sagar");
+        Assignment2Q2 manager = new Manager(1, "Sugar");
         //System.out.println(manager.getSalary(salary));
-        Assignment2Q2 labour = new Labour(2, "Rahul");
+        Assignment2Q2 labour = new Labour(2, "salt");
         //System.out.println(labour.getSalary(salary));
 
         ar.add(totalEmployeesSalary(manager.getSalary(salary)+labour.getSalary(salary)));
