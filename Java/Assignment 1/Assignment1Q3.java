@@ -1,4 +1,4 @@
-package prac;
+
 
 class SiCi {
     public double simpleInterest(double p,int t,double r){

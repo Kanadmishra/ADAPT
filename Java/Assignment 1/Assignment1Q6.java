@@ -1,11 +1,11 @@
-package prac;
+
 import java.util.Scanner;
 
 public class Assignment1Q6 {
 		public static void main(String[] args) {
 			
 			String username = null, pwd = null;
-			String validUser = "akshat";
+			String validUser = "ramen";
 			String validPwd = "password";
 			
 			int counter = 0;
